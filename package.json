@@ -1,0 +1,10 @@
+{
+  "name": "o2e-dispatch-sync",
+  "version": "1.3.0",
+  "description": "Commercial portal -> franchise dispatch sync batch",
+  "main": "src/dispatchSync.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "UNLICENSED"
+}

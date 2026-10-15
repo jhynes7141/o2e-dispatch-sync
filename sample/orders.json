@@ -1,0 +1,5 @@
+[
+  { "orderId": "CW-99001", "siteId": "CW-SEA-01", "region": "us-west", "scheduledUtc": "2026-10-14T17:00:00Z", "bookingOriginOffsetMinutes": -240 },
+  { "orderId": "CW-99001", "siteId": "CW-NYC-04", "region": "us-east", "scheduledUtc": "2026-10-14T13:00:00Z", "bookingOriginOffsetMinutes": -240 },
+  { "orderId": "CW-99001", "siteId": "CW-CHI-02", "region": "us-central", "scheduledUtc": "2026-10-15T02:00:00Z", "bookingOriginOffsetMinutes": -240 }
+]
